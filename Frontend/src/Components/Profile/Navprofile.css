@@ -1,0 +1,6 @@
+.link:hover{
+ color: #0f6fec;
+border-bottom: 1.5px solid  #0f6fec;
+transition: 0.2s;
+
+}

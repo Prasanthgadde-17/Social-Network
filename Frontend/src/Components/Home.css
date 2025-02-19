@@ -1,0 +1,6 @@
+.homecontainer {
+  display: grid;
+  grid-template-columns: 2fr 4fr 2fr;
+  gap: 30px;
+  margin: 10px 10px;
+}
